@@ -7,7 +7,7 @@ Turning imagination into a reality with programming. A tinkerer of codes and a p
 - 💞️ I’m proficient in Visual Basic.net, Python, and C++
 - 🤖 For my database, I commonly use MySQL, Microsoft SQL, and Access
 - 🔧 I specialize in Computer Systems Servicing and Computer Programming
-- 📫 You can reach me through my facebook account @K.Ilao or through my LinkedIn @KyleIlao
+- 📫 You can reach me through my facebook account @Ilao.JhK or through my LinkedIn @KyleIlao
 
 <!---
 Kyle-Ilao/Kyle-Ilao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
